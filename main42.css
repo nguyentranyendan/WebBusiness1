@@ -71,6 +71,9 @@ ADDRESS {
     padding: 0;
 }
 
+
+/* MENU */
+
 #container {
     border: 1px solid blue;
     background: yellow;
@@ -100,6 +103,9 @@ ADDRESS {
     background: green;
 }
 
+
+/* MENU CON */
+
 #container li ul {
     position: absolute;
     display: none;
@@ -116,4 +122,15 @@ ADDRESS {
 
 #container ul li ul li {
     width: 100%;
+}
+
+
+/* NỘI DUNG MAXWELL */
+
+#page {
+    width: 650px;
+    margin: 20px auto;
+    border: 2px solid blue;
+    padding: 8px;
+    box-sizing: border-box;
 }
